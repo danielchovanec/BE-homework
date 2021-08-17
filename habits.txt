@@ -6,5 +6,10 @@ not sweet and sugary stuff.
 The get it done attitude is a good way to approach programming and work in general. 
 Start everything on time - it gives you freedom later on. 
 
-Also being flexible about which work station I work on is OK, but I think that 
+Also being flexible about which work station I work on is OK, but I think that
 productivity can be increased when you configure your shortcuts etc.
+
+#3
+Keeping code simple and easy to read is in my opinion a must have nowadays.
+I myself have come across chaotic code that was incredibly hard to work on. 
+
