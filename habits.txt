@@ -23,3 +23,8 @@ taking breaks from staring into the computer.
 #5
 The IT world is improving and advancing incredibly quickly - so in order to stay up-to-date 
 and work ready it is necessary to keep on learning.
+
+#6
+Collaboration and being a team player definitely brings more benefits than being a solo programmer.
+It is not a shame to ask for help and it can also be a learning experience as other people
+may have newer and better solutions for some problems and bugs.
