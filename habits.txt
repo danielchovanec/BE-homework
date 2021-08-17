@@ -11,4 +11,11 @@ productivity can be increased when you configure your shortcuts etc.
 
 #3
 Keeping code simple and easy to read is in my opinion a must have nowadays.
-I myself have come across chaotic code that was incredibly hard to work on.
+I myself have come across chaotic code that was incredibly hard to work on. 
+
+#4
+Habit number 4 - being in the zone.
+Being in the zone is a great way to get work done. Frequent interuptions have "harmed" me in the past,
+where I wasn't able to fully concentrate on my work. Being in the zone is a very productive state of mind 
+for a programmer - however it contradicts the statement that was mentioned in the video in the first habit - 
+taking breaks from staring into the computer.
