@@ -28,3 +28,8 @@ and work ready it is necessary to keep on learning.
 Collaboration and being a team player definitely brings more benefits than being a solo programmer.
 It is not a shame to ask for help and it can also be a learning experience as other people
 may have newer and better solutions for some problems and bugs.
+
+#7
+Being able and used to working alone is a good habit to have. When you are a programmer it is good to be 
+a team player, but there are times where you don't really need help and can work on your own, so it is good to be able to 
+do this.
